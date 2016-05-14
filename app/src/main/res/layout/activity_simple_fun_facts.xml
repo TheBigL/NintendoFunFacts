@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="leban.nait.ca.simplefunfacts.SimpleFunFactsActivity"
+    android:background="#d00101"
+    android:id="@+id/mainlayout">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Did you know?"
+        android:id="@+id/textView2"
+        android:textSize="24sp"
+        android:textColor="#80ffffff" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Mario did not debut in Super Mario Bros. He debuts in an arcade game called Donkey Kong in 1981."
+        android:id="@+id/facttextView"
+        android:layout_marginTop="55dp"
+        android:textSize="24sp"
+        android:textColor="@android:color/holo_red_light"
+        android:layout_below="@+id/textView2"
+        android:layout_alignParentStart="true" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Another Fun Fact"
+        android:id="@+id/showfactbutton"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:background="@android:color/white" />
+</RelativeLayout>
