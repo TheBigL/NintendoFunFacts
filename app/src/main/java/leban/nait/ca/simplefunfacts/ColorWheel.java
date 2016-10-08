@@ -5,7 +5,7 @@ import android.graphics.Color;
 import java.util.Random;
 
 /**
- * Created by Owner on 2016-05-14.
+ * Created by Leban A. Mohamed on 2016-05-14.
  */
 public class ColorWheel {
     private final String[] colors = {"#e15258",
