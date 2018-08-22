@@ -26,7 +26,7 @@
         android:id="@+id/facttextView"
         android:layout_marginTop="55dp"
         android:textSize="24sp"
-        android:textColor="@android:color/holo_red_light"
+        android:textColor="@android:color/white"
         android:layout_below="@+id/textView2"
         android:layout_alignParentStart="true" />
 
