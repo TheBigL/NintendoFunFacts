@@ -10,7 +10,7 @@ public class FactBook
     private final String[] facts = {"Mario did not debut in Super Mario Bros. He debuted in Donkey Kong.",
             "Star Fox was based on the Japanese mythology based on the gates in Kyoto",
             "The Legend of Zelda was based on Shigeru Miyamoto's childhood of discovering caves.",
-            "When Donkey Kong Country was released, Rare initially wanted to redesign Donkey Kong Jr., but Nintendo rejected that idea.",
+            "When Donkey Kong Country was released, Rare initially wanted to redesign Donkey Kong Jr., but Nintendo rejected the redesign, thus Diddy Kong was born.",
             "Pokemon was based on Satoshi Tajiri's childhood of catching bugs.",
             "During the development of 007:Goldeneye, Miyamoto allegedly suggested that game was too violent and proposed that players shake hands with enemies in the hospitial.",
             "Super Smash Bros for the N64 was initally meant to be a Japanese exclusive title, but it got so popular that it got ported cross the Pacific.",
@@ -22,7 +22,12 @@ public class FactBook
             "Shigeru Miyamoto once hinted in an interview with Nintendo Power that Mario might wear 'metal clothes'. 5 years later, Metal Mario came into existance in Super Mario 64",
             "Pikmin was influenced by Miyamoto's hobby of gardening.",
             "The Mario Bros arcade game concieved as Nintendo's first forray into multiplayer gaming.",
-            "Bowser's Japanese name is Koopa （クッパ）"};
+            "Bowser's Japanese name is Koopa （クッパ）",
+            "The quirky RPG series EarthBound (or MOTHER as it is known in Japan) was proposed by well known Japanese copywriter Shigesato Itoi.",
+            "During the Project Plan of F-Zero, it was proposed that the game was going take place on the streets, but they couldn't due to technical difficulties",
+            "When Kirby was created, Masahiro Sakurai wanted to create a game that was easy for anyone to play",
+            "MOTHER 3 was in Development Hell. It was in Development for a total of 12 years.",
+            "During the development of Super Mario Kart, the character was just a generic guy in overalls"};
     public  String getFact()
     {
 
