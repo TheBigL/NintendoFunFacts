@@ -26,8 +26,12 @@ public class FactBook
             "The quirky RPG series EarthBound (or MOTHER as it is known in Japan) was proposed by well known Japanese copywriter Shigesato Itoi.",
             "During the Project Plan of F-Zero, it was proposed that the game was going take place on the streets, but they couldn't due to technical difficulties",
             "When Kirby was created, Masahiro Sakurai wanted to create a game that was easy for anyone to play",
-            "MOTHER 3 was in Development Hell. It was in Development for a total of 12 years.",
-            "During the development of Super Mario Kart, the character was just a generic guy in overalls"};
+            "MOTHER 3 was in Development Hell. It was in Development for a total of 12 years. Who knows when it will cross the Pacific Ocean...",
+            "During the development of Super Mario Kart, the character was just a generic guy in overalls",
+            "Wario was first created as antagonizt for Super Mario Land 2. His name is based on Japanese word 悪い which translates to bad.",
+            "Super Smash Bros. initally had generic characters under the title `The Dragon King`. Eventually, the creator Masahiro Sakurai got permission from Nintendo & Shigesato Itoi to use their characters.",
+            "Super Smash Bros. was sleeper hit. Nintendo didn't even intially thought of releasing it in Japan",
+            "The Fire Emblem series got representation in Super Smash Bros. Melee. Nintendo of America thought of cutting Marth and Roy, but decided against it."};
     public  String getFact()
     {
 

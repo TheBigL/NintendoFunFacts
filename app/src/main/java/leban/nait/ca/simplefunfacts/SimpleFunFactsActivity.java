@@ -1,15 +1,16 @@
 package leban.nait.ca.simplefunfacts;
 
-import android.graphics.Color;
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.widget.Button;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
+/*
+Created by Leban Mohamed.
 
-import java.util.Random;
 
+ */
 public class SimpleFunFactsActivity extends AppCompatActivity implements View.OnClickListener {
     Button nextFunFact;
     TextView funFact;
