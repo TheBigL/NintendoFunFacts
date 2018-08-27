@@ -8,7 +8,7 @@ import java.util.Random;
  * Created by Leban A. Mohamed on 2016-05-14.
  */
 public class ColorWheel {
-    private final String[] colors = {"#e15258",
+    public final String[] colors = {"#e15258",
             "#3079ab",
             "#51b46d",
             "#e0ab18",

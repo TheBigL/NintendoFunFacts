@@ -7,7 +7,7 @@ import java.util.Random;
  */
 public class FactBook
 {
-    private final String[] facts = {"Mario did not debut in Super Mario Bros. He debuted in Donkey Kong.",
+    public final String[] facts = {"Mario did not debut in Super Mario Bros. He debuted in Donkey Kong.",
             "Star Fox was based on the Japanese mythology based on the gates in Kyoto",
             "The Legend of Zelda was based on Shigeru Miyamoto's childhood of discovering caves.",
             "When Donkey Kong Country was released, Rare initially wanted to redesign Donkey Kong Jr., but Nintendo rejected the redesign, thus Diddy Kong was born.",
