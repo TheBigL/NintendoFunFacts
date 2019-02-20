@@ -24,7 +24,7 @@ public class SimpleFunFactsActivity extends AppCompatActivity implements View.On
     FactBook factBook = new FactBook();
     private RelativeLayout layout;
     private ColorWheel colorWheel = new ColorWheel();
-    private String fact = factBook.facts[0];
+    public String fact;
     private int bgcolor = Color.parseColor(colorWheel.colors[3]);
 
 

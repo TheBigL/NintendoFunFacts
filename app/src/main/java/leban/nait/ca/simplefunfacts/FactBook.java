@@ -31,7 +31,10 @@ public class FactBook
             "Wario was first created as antagonizt for Super Mario Land 2. His name is based on Japanese word 悪い which translates to bad.",
             "Super Smash Bros. initally had generic characters under the title `The Dragon King`. Eventually, the creator Masahiro Sakurai got permission from Nintendo & Shigesato Itoi to use their characters.",
             "Super Smash Bros. was sleeper hit. Nintendo didn't even intially thought of releasing it in Japan",
-            "The Fire Emblem series got representation in Super Smash Bros. Melee. Nintendo of America thought of cutting Marth and Roy, but decided against it."};
+            "The Fire Emblem series got representation in Super Smash Bros. Melee. Nintendo of America thought of cutting Marth and Roy, but decided to put them in.",
+            "The music for Sonic the Hedgehog 1 and 2 was composed by the pop group Dreams Come True's composer and producer Masato Nakamura. This explains why they use the Stage Clear theme from Sonic 3 ownwards...",
+            "From Sonic 3 onwards, Sega hired in-house music team and even Michael Jackson for Sonic 3!",
+            "From"};
     public  String getFact()
     {
 
